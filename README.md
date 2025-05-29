@@ -2,7 +2,7 @@
 
 O Lâmpada 3D Interativa é uma aplicação web simples e responsiva que simula uma lâmpada de forma animada e moderna. Com um clique no interruptor, a lâmpada se acende ou apaga, alterando também o fundo da tela — criando um efeito visual agradável e divertido.
 
-👉 Deploy: em breve
+👉 Deploy: [Deploy](https://luxury-buttercream-97a3a5.netlify.app/)
 
 🛠️ Tecnologias
 HTML5
