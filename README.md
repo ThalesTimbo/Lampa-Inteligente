@@ -23,7 +23,7 @@ JavaScript (ES6+)
 ✅ Layout responsivo e centralizado para diferentes tamanhos de tela
 
 📚 Contexto
-Este projeto foi desenvolvido como parte dos estudos de front-end, explorando animações com CSS, manipulação de classes com JavaScript e criação de elementos visuais interativos. Ideal para quem está começando e quer praticar efeitos de luz, sombra e interatividade.
+Esse projeto nasceu depois que assisti um vídeo no YouTube explicando como fazer esse efeito de lâmpada interativa. Fiquei curioso com o resultado, decidi reproduzir e acabei me divertindo no processo. Aproveitei pra treinar CSS para animações e manipulação de classes com JavaScript. Mais um projetinho pra coleção e aprendizado no mundo do front-end 🚀✨
 
 🎨 Autor
 Feito com ⚡ e 💙 por Thales
